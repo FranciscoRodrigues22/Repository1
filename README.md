@@ -1,5 +1,5 @@
 # Repository1
 
 int main {
-prinf("Ora boas");
+printf("Ora boas");
 }
